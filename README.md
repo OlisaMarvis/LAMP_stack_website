@@ -1,4 +1,4 @@
-# IMPLEMENTING A LAMP stack website on AWS Cloud.
+# IMPLEMENTING A LAMP STACK WEBSITE ON AWS Cloud.
 
 Before we go into the business of creating A LAMP stack website on AWS, it is important we define it's various components. 
 
